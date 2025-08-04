@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=[1] - Schematic Blcoks.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[1] - Schematic Blcoks.SchDoc|FileName=[2] - Power Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[1] - Schematic Blcoks.SchDoc|FileName=[3] - STM32F103 Debugger.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[1] - Schematic Blcoks.SchDoc|FileName=[4] - Ethernet PHY.SchDoc|SheetNumber=4
