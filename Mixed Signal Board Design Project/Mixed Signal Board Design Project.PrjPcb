@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAK
 
 [Document8]
-DocumentPath=[8] DAC and MIC.SchDoc
+DocumentPath=[8] - DAC and MIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,6 +184,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
+
+[Document9]
+DocumentPath=[9] - STM32F407 Controller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAM
 
 [Configuration1]
 Name=Sources
