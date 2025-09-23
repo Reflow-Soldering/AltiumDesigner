@@ -1,0 +1,25 @@
+Added Component: Designator=R23(RES_0603)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES_0603)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U3-13
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U3-14
+Added Pin To Net: NetName=NetR24_1 Pin=U8-45
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=[5] - Motor Driver Schematic Member=Component R23 10K
+Added Member To Class: ClassName=[5] - Motor Driver Schematic Member=Component R24 10K

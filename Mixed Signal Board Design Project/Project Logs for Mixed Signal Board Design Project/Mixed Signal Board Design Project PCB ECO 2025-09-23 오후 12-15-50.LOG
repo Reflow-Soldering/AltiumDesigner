@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=NRST Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=J11-1
+Removed Pin From Net: NetName=+12V Pin=J11-3
+Removed Member From Class: ClassName=[3] - STM32F103 Debugger Member=C10
+Added Pin To Net: NetName=+12V Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-3

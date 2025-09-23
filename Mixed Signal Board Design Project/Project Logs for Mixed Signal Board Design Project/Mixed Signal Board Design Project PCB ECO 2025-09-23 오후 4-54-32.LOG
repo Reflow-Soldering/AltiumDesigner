@@ -1,0 +1,45 @@
+Added Component: Designator=R45(RES_0603)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES_0603)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES_0603)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES_0603)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "0603WAJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR06X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SNSOUT_2 Pin=R45-1
+Added Pin To Net: NetName=DVDD Pin=R45-2
+Added Pin To Net: NetName=DVDD Pin=R46-1
+Added Pin To Net: NetName=nFAULT_2 Pin=R46-2
+Added Pin To Net: NetName=+3V3 Pin=R47-2
+Added Pin To Net: NetName=GND Pin=R48-2
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=U9-13
+Added Net: Name=NetR47_1
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR48_1 Pin=U8-66
+Added Pin To Net: NetName=NetR48_1 Pin=U9-14
+Added Net: Name=NetR48_1
+Added Member To Class: ClassName=[10] - Motor Driver Schematic2 Member=Component R45 10K
+Added Member To Class: ClassName=[10] - Motor Driver Schematic2 Member=Component R46 10K
+Added Member To Class: ClassName=[10] - Motor Driver Schematic2 Member=Component R47 10K
+Added Member To Class: ClassName=[10] - Motor Driver Schematic2 Member=Component R48 10K
