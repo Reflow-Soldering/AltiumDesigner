@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C57-1
+Removed Pin From Net: NetName=+3V3 Pin=C57-2
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=+3V3 Pin=C58-2
+Removed Member From Class: ClassName=[9] - STM32F407 Controller Member=C57
+Removed Member From Class: ClassName=[9] - STM32F407 Controller Member=C58
+Change Component Comment : Designator=C59 Old Comment=0.1uF New Comment=4.7uF
+Added Room: Name=[3] - STM32F103 Debugger
+Added Room: Name=[4] - Ethernet PHY
+Added Room: Name=[5] - Motor Driver Schematic
+Added Room: Name=[6] - CH340C
+Added Room: Name=[7] - ADC Chip
+Added Room: Name=[8] - DAC and MIC
+Added Room: Name=[9] - STM32F407 Controller
+Added Room: Name=[10] - Motor Driver Schematic2
+Added Room: Name=[11] - Power Input and Regulators
