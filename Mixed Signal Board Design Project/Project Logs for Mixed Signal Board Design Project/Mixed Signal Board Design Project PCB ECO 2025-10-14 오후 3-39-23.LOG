@@ -1,0 +1,75 @@
+Removed Member From Class: ClassName=DIFF50 Member=NetDS1_A
+Removed Member From Class: ClassName=DIFF50 Member=NetDS2_A
+Removed Member From Class: ClassName=DIFF50 Member=NetR8_1
+Removed Member From Class: ClassName=DIFF50 Member=NetR10_1
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_12
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_13
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_14
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_15
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_16
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_18
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_19
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_20
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_22
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_23
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_24
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_25
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_26
+Removed Member From Class: ClassName=DIFF50 Member=NetU2_27
+Change Net Name : Old Net Name=NetDS1_A New Net Name=COL
+Change Net Name : Old Net Name=NetDS2_A New Net Name=CRS
+Change Net Name : Old Net Name=NetR8_1 New Net Name=INT
+Change Net Name : Old Net Name=NetR10_1 New Net Name=MDIO
+Change Net Name : Old Net Name=NetR24_1 New Net Name=EN
+Change Net Name : Old Net Name=NetR25_1 New Net Name=SCL
+Change Net Name : Old Net Name=NetR26_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetR27_2 New Net Name=RESET
+Change Net Name : Old Net Name=NetR48_1 New Net Name=EN_2
+Change Net Name : Old Net Name=NetU1_18 New Net Name=JTCLK_F407
+Change Net Name : Old Net Name=NetU1_25 New Net Name=JTMS_F407
+Change Net Name : Old Net Name=NetU2_12 New Net Name=MDC
+Change Net Name : Old Net Name=NetU2_13 New Net Name=RX_D3
+Change Net Name : Old Net Name=NetU2_14 New Net Name=RX_D2
+Change Net Name : Old Net Name=NetU2_15 New Net Name=RX_D1
+Change Net Name : Old Net Name=NetU2_16 New Net Name=RX_D0
+Change Net Name : Old Net Name=NetU2_18 New Net Name=RX_DV
+Change Net Name : Old Net Name=NetU2_19 New Net Name=RX_CLK
+Change Net Name : Old Net Name=NetU2_20 New Net Name=RX_ER
+Change Net Name : Old Net Name=NetU2_22 New Net Name=TX_CLK
+Change Net Name : Old Net Name=NetU2_23 New Net Name=TX_EN
+Change Net Name : Old Net Name=NetU2_24 New Net Name=TX_D0
+Change Net Name : Old Net Name=NetU2_25 New Net Name=TX_D1
+Change Net Name : Old Net Name=NetU2_26 New Net Name=TX_D2
+Change Net Name : Old Net Name=NetU2_27 New Net Name=TX_D3
+Change Net Name : Old Net Name=NetU3_11 New Net Name=SO
+Change Net Name : Old Net Name=NetU3_15 New Net Name=PH
+Change Net Name : Old Net Name=NetU4_2 New Net Name=CH340_TX_PORT
+Change Net Name : Old Net Name=NetU4_3 New Net Name=CH340_RX_PORT
+Change Net Name : Old Net Name=NetU4_14 New Net Name=CH340_RST
+Change Net Name : Old Net Name=NetU5_14 New Net Name=DRDY
+Change Net Name : Old Net Name=NetU6_37 New Net Name=MCLK
+Change Net Name : Old Net Name=NetU6_38 New Net Name=SCLK
+Change Net Name : Old Net Name=NetU6_39 New Net Name=SDIN
+Change Net Name : Old Net Name=NetU6_40 New Net Name=LRCK
+Change Net Name : Old Net Name=NetU7_3 New Net Name=CLK_MIC
+Change Net Name : Old Net Name=NetU7_4 New Net Name=DOUT_MIC
+Change Net Name : Old Net Name=NetU8_31 New Net Name=SO_2
+Change Net Name : Old Net Name=NetU8_60 New Net Name=PH_2
+Added Member To Class: ClassName=DIFF50 Member=Wire COL
+Added Member To Class: ClassName=DIFF50 Member=Wire CRS
+Added Member To Class: ClassName=DIFF50 Member=Wire INT
+Added Member To Class: ClassName=DIFF50 Member=Wire MDC
+Added Member To Class: ClassName=DIFF50 Member=Wire MDIO
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_CLK
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_D0
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_D1
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_D2
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_D3
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_DV
+Added Member To Class: ClassName=DIFF50 Member=Wire RX_ER
+Added Member To Class: ClassName=DIFF50 Member=Wire TX_CLK
+Added Member To Class: ClassName=DIFF50 Member=Wire TX_D0
+Added Member To Class: ClassName=DIFF50 Member=Wire TX_D1
+Added Member To Class: ClassName=DIFF50 Member=Wire TX_D2
+Added Member To Class: ClassName=DIFF50 Member=Wire TX_D3
+Added Member To Class: ClassName=DIFF50 Member=Wire TX_EN
